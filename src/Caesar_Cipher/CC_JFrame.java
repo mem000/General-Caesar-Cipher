@@ -1,7 +1,6 @@
 /*
  very simple GUI from which we can test all functions of the Caeser Cipher
  */
-
 /**
  *
  * @author: Mahmoud Esmat
@@ -733,7 +732,6 @@ public class CC_JFrame extends javax.swing.JFrame {
                 output.append("\t\t\t\t" + plain);
                 output.println();
                 output.println();
-
             }
             try {
                 input = new Scanner(new File("My text files/" + jtf2.getText()));
