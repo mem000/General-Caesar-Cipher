@@ -1,125 +1,75 @@
-Key = 1
-Message: 
-	Lahycxpajyqh Jwm Wncfxat Bnldarch
-	Vjqvxdm Nbvjc Vjqvxdm 
-	VNV
-Key = 2
-Message: 
-	Kzgxbwozixpg Ivl Vmbewzs Amkczqbg
-	Uipuwcl Mauib Uipuwcl 
-	UMU
-Key = 3
-Message: 
-	Jyfwavnyhwof Huk Uladvyr Zljbypaf
-	Thotvbk Lztha Thotvbk 
-	TLT
-Key = 4
-Message: 
-	Ixevzumxgvne Gtj Tkzcuxq Ykiaxoze
-	Sgnsuaj Kysgz Sgnsuaj 
-	SKS
-Key = 5
-Message: 
-	Hwduytlwfumd Fsi Sjybtwp Xjhzwnyd
-	Rfmrtzi Jxrfy Rfmrtzi 
-	RJR
-Key = 6
-Message: 
-	Gvctxskvetlc Erh Rixasvo Wigyvmxc
-	Qelqsyh Iwqex Qelqsyh 
-	QIQ
-Key = 7
-Message: 
-	Fubswrjudskb Dqg Qhwzrun Vhfxulwb
-	Pdkprxg Hvpdw Pdkprxg 
-	PHP
-Key = 8
-Message: 
-	Etarvqitcrja Cpf Pgvyqtm Ugewtkva
-	Ocjoqwf Guocv Ocjoqwf 
-	OGO
-Key = 9
-Message: 
-	Dszquphsbqiz Boe Ofuxpsl Tfdvsjuz
-	Nbinpve Ftnbu Nbinpve 
-	NFN
-Key = 10
-Message: 
-	Cryptography And Network Security
-	Mahmoud Esmat Mahmoud 
-	MEM
-Key = 11
-Message: 
-	Bqxosnfqzogx Zmc Mdsvnqj Rdbtqhsx
-	Lzglntc Drlzs Lzglntc 
-	LDL
-Key = 12
-Message: 
-	Apwnrmepynfw Ylb Lcrumpi Qcaspgrw
-	Kyfkmsb Cqkyr Kyfkmsb 
-	KCK
-Key = 13
-Message: 
-	Zovmqldoxmev Xka Kbqtloh Pbzrofqv
-	Jxejlra Bpjxq Jxejlra 
-	JBJ
-Key = 14
-Message: 
-	Ynulpkcnwldu Wjz Japskng Oayqnepu
-	Iwdikqz Aoiwp Iwdikqz 
-	IAI
-Key = 15
-Message: 
-	Xmtkojbmvkct Viy Izorjmf Nzxpmdot
-	Hvchjpy Znhvo Hvchjpy 
-	HZH
-Key = 16
-Message: 
-	Wlsjnialujbs Uhx Hynqile Mywolcns
-	Gubgiox Ymgun Gubgiox 
-	GYG
-Key = 17
-Message: 
-	Vkrimhzktiar Tgw Gxmphkd Lxvnkbmr
-	Ftafhnw Xlftm Ftafhnw 
-	FXF
-Key = 18
-Message: 
-	Ujqhlgyjshzq Sfv Fwlogjc Kwumjalq
-	Eszegmv Wkesl Eszegmv 
-	EWE
-Key = 19
-Message: 
-	Tipgkfxirgyp Reu Evknfib Jvtlizkp
-	Drydflu Vjdrk Drydflu 
-	DVD
-Key = 20
-Message: 
-	Shofjewhqfxo Qdt Dujmeha Iuskhyjo
-	Cqxcekt Uicqj Cqxcekt 
-	CUC
-Key = 21
-Message: 
-	Rgneidvgpewn Pcs Ctildgz Htrjgxin
-	Bpwbdjs Thbpi Bpwbdjs 
-	BTB
-Key = 22
-Message: 
-	Qfmdhcufodvm Obr Bshkcfy Gsqifwhm
-	Aovacir Sgaoh Aovacir 
-	ASA
-Key = 23
-Message: 
-	Pelcgbtencul Naq Argjbex Frphevgl
-	Znuzbhq Rfzng Znuzbhq 
-	ZRZ
-Key = 24
-Message: 
-	Odkbfasdmbtk Mzp Zqfiadw Eqogdufk
-	Ymtyagp Qeymf Ymtyagp 
-	YQY
-Key = 25
-Message: 
-	Ncjaezrclasj Lyo Ypehzcv Dpnfctej
-	Xlsxzfo Pdxle Xlsxzfo 
-	XPX
+	Key = 1 	Message: 
+				Lahycxpajyqh Jwm Wncfxat Bnldarch
+
+	Key = 2 	Message: 
+				Kzgxbwozixpg Ivl Vmbewzs Amkczqbg
+
+	Key = 3 	Message: 
+				Jyfwavnyhwof Huk Uladvyr Zljbypaf
+
+	Key = 4 	Message: 
+				Ixevzumxgvne Gtj Tkzcuxq Ykiaxoze
+
+	Key = 5 	Message: 
+				Hwduytlwfumd Fsi Sjybtwp Xjhzwnyd
+
+	Key = 6 	Message: 
+				Gvctxskvetlc Erh Rixasvo Wigyvmxc
+
+	Key = 7 	Message: 
+				Fubswrjudskb Dqg Qhwzrun Vhfxulwb
+
+	Key = 8 	Message: 
+				Etarvqitcrja Cpf Pgvyqtm Ugewtkva
+
+	Key = 9 	Message: 
+				Dszquphsbqiz Boe Ofuxpsl Tfdvsjuz
+
+	Key = 10 	Message: 
+				Cryptography And Network Security
+
+	Key = 11 	Message: 
+				Bqxosnfqzogx Zmc Mdsvnqj Rdbtqhsx
+
+	Key = 12 	Message: 
+				Apwnrmepynfw Ylb Lcrumpi Qcaspgrw
+
+	Key = 13 	Message: 
+				Zovmqldoxmev Xka Kbqtloh Pbzrofqv
+
+	Key = 14 	Message: 
+				Ynulpkcnwldu Wjz Japskng Oayqnepu
+
+	Key = 15 	Message: 
+				Xmtkojbmvkct Viy Izorjmf Nzxpmdot
+
+	Key = 16 	Message: 
+				Wlsjnialujbs Uhx Hynqile Mywolcns
+
+	Key = 17 	Message: 
+				Vkrimhzktiar Tgw Gxmphkd Lxvnkbmr
+
+	Key = 18 	Message: 
+				Ujqhlgyjshzq Sfv Fwlogjc Kwumjalq
+
+	Key = 19 	Message: 
+				Tipgkfxirgyp Reu Evknfib Jvtlizkp
+
+	Key = 20 	Message: 
+				Shofjewhqfxo Qdt Dujmeha Iuskhyjo
+
+	Key = 21 	Message: 
+				Rgneidvgpewn Pcs Ctildgz Htrjgxin
+
+	Key = 22 	Message: 
+				Qfmdhcufodvm Obr Bshkcfy Gsqifwhm
+
+	Key = 23 	Message: 
+				Pelcgbtencul Naq Argjbex Frphevgl
+
+	Key = 24 	Message: 
+				Odkbfasdmbtk Mzp Zqfiadw Eqogdufk
+
+	Key = 25 	Message: 
+				Ncjaezrclasj Lyo Ypehzcv Dpnfctej
+
