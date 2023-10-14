@@ -5,12 +5,11 @@ package Caesar_Cipher;
     such as encryptM, decryptM, and other help functions as
     shiftLetter and isCapital
    
-*/
+ */
 /**
  *
  * @author: Mahmoud Esmat
  */
-
 public class CaesarCipher {
 
 //*************************************************//  

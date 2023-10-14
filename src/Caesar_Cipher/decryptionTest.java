@@ -4,7 +4,6 @@ package Caesar_Cipher;
  *
  * @author: Mahmoud Esmat
  */
-
 import java.io.*;
 import java.util.*;
 
