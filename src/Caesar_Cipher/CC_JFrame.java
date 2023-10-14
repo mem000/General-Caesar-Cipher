@@ -724,8 +724,7 @@ public class CC_JFrame extends javax.swing.JFrame {
         for (int k = 1; k <= 25; k++) {
             jta1.append("\tKey = " + k);
             jta1.append("\tMessage: ");
-            output.append("\tKey = " + k);
-            output.append("\t\tMessage: ");
+            output.printf("\tKey = %d \tMessage: ", k);
             while (input.hasNext()) {
                 m = input.nextLine();
                 plain = c.decryptM(k, m);
